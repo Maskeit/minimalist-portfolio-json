@@ -1,20 +1,20 @@
 {
-    "basics": {
-      "name": "Miguel Alejandre",
-      "label": "Ingeniero de Software",
-      "image": "./maskeit.JPG",
-      "email": "miguelagustin182@gmail.com",
-      "phone": "(314) 166-9056",
-      "url": "",
-      "summary": "Desarrollador de software experimentado con sólidas habilidades de front-end en JavaScript, ReactJS, Tailwind, HTML5 y CSS3. Competente en tecnologías backend, incluidas PHP, Java, Python y Node.js (ExpressJS), con experiencia en bases de datos tanto relacionales (MySQL) como no relacionales (MongoDB). Uso de herramientas como git y github. Experimentado en entrenamiento de modelos ML y aplicado al reconocimiento de imágenes. Certificado en SCRUM, demostrando dominio en metodologías ágiles. Fuertes habilidades de liderazgo y habilidades efectivas para hablar en público, complementadas con un compromiso con soluciones de software innovadoras y eficientes.",
-      "location": {
-        "address": "Agachona Comun 433",
-        "postalCode": "28864",
-        "city": "Manzanillo",
-        "countryCode": "MX",
-        "region": "Colima"
-      },
-      "profiles": [
+  "basics": {
+    "name": "Miguel Alejandre",
+    "label": "Ingeniero de Software",
+    "image": "./maskeit.JPG",
+    "email": "miguelagustin182@gmail.com",
+    "phone": "(314) 166-9056",
+    "url": "",
+    "summary": "Desarrollador de software experimentado con sólidas habilidades de front-end en JavaScript, ReactJS, Tailwind, HTML5 y CSS3. Competente en tecnologías backend, incluidas PHP, Java, Python y Node.js (ExpressJS), con experiencia en bases de datos tanto relacionales (MySQL) como no relacionales (MongoDB). Uso de herramientas como git y github. Experimentado en entrenamiento de modelos ML y aplicado al reconocimiento de imágenes. Certificado en SCRUM, demostrando dominio en metodologías ágiles. Fuertes habilidades de liderazgo y habilidades efectivas para hablar en público, complementadas con un compromiso con soluciones de software innovadoras y eficientes.",
+    "location": {
+      "address": "Agachona Comun 433",
+      "postalCode": "28864",
+      "city": "Manzanillo",
+      "countryCode": "MX",
+      "region": "Colima"
+    },
+    "profiles": [
       {
         "network": "LinkedIn",
         "username": "Miguel Alejandre",
@@ -26,152 +26,142 @@
         "url": "https://github.com/Maskeit/"
       }
     ]
+  },
+  "work": [
+    {
+      "name": "CISnatura",
+      "position": "FullStack Engineer",
+      "url": "https://cisnaturatienda.com.mx",
+      "startDate": "2023-08-01",
+      "endDate": "2024-01-30",
+      "summary": "Desarrolle un Ecommerce para la venta de productos naturistas y remedios herbolarios",
+      "highlights": ["PHP, JavaScript, HTML, CSS, Bootstrap"]
     },
-    "work": [
-      {
-        "name": "CISnatura",
-        "position": "FullStack Engineer",
-        "url": "https://cisnaturatienda.com.mx",
-        "startDate": "2023-08-01",
-        "endDate": "2024-01-30",
-        "summary": "Desarrolle un Ecommerce para la venta de productos naturistas y remedios herbolarios",
-        "highlights": [
-          "PHP, JavaScript, HTML, CSS, Bootstrap"
-        ]
-      },
-      {
-        "name": "Localito",
-        "position": "Desarrollador Android",
-        "url": "https://cisnaturatienda.com.mx",
-        "startDate": "2023-08-01",
-        "endDate": "2024-01-30",
-        "summary": "Desarrollé una aplicación móvil innovadora que facilite el comercio entre pequeños comercios locales y comerciantes independientes, ofreciendo una plataforma para la exhibición y venta eficiente de productos. ContribuÍ activamente al equipo, utilizando mis habilidades de Android Studio",
-        "highlights": [
-          "Java y XML Material Design 3"
-        ]
-      },
-      {
-        "name": "SmartCrowd",
-        "position": "Backend Engineer",
-        "url": "https://cisnaturatienda.com.mx",
-        "startDate": "2023-08-01",
-        "endDate": "2024-01-30",
-        "summary": "Desarrollé un proyecto para el control de aforo en establecimientos, donde mi rol incluyó la creación de un algoritmo de reconocimiento de imágenes. Además, entrené un modelo de aprendizaje automático e implementé en una Raspberry Pi",
-        "highlights": [
-          "PHP, JavaScript, HTML, CSS, Bootstrap"
-        ]
-      }
-
+    {
+      "name": "Localito",
+      "position": "Desarrollador Android",
+      "url": "https://cisnaturatienda.com.mx",
+      "startDate": "2023-08-01",
+      "endDate": "2023-12-01",
+      "summary": "Desarrollé una aplicación móvil innovadora que facilite el comercio entre pequeños comercios locales y comerciantes independientes, ofreciendo una plataforma para la exhibición y venta eficiente de productos. ContribuÍ activamente al equipo, utilizando mis habilidades de Android Studio",
+      "highlights": ["Java y XML Material Design 3"]
+    },
+    {
+      "name": "SmartCrowd",
+      "position": "Backend Engineer",
+      "url": "https://cisnaturatienda.com.mx",
+      "startDate": "2023-02-01",
+      "endDate": "2023-06-01",
+      "summary": "Desarrollé un proyecto para el control de aforo en establecimientos, donde mi rol incluyó la creación de un algoritmo de reconocimiento de imágenes. Además, entrené un modelo de aprendizaje automático e implementé en una Raspberry Pi",
+      "highlights": ["PHP, JavaScript, HTML, CSS, Bootstrap"]
+    }
   ],
-    "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }],
-    "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Colima",
+      "url": "https://www.ucol.mx/",
+      "area": "Ingeniero de Software",
       "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
-    "awards": [{
+      "startDate": "2021-08-15",
+      "endDate": "2025-05-01",
+      "score": "",
+      "courses": [""]
+    }
+  ],
+  "awards": [
+    {
       "title": "Award",
       "date": "2014-11-01",
       "awarder": "Company",
       "summary": "There is no spoon."
-    }],
-    "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }],
-    "publications": [{
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Scrum Foundation Professional Certification - SFPC",
+      "date": "2022",
+      "issuer": "CertiProof",
+      "url": "https://www.credly.com/badges/cd8e2f2f-eba4-4809-b55b-5f4e14e845f7/linked_in_profile"
+    }
+  ],
+  "publications": [
+    {
       "name": "Publication",
       "publisher": "Company",
       "releaseDate": "2014-10-01",
       "url": "https://publication.com",
       "summary": "Description…"
-    }],
-    "skills": [
-      {
-        "name": "HTML",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo web", "Frontend"
-        ]
-      },
-      {
-        "name": "css",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo web", "Frontend"
-        ]
-      },
-      {
-        "name": "JavaScript",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo web", "Frontend"
-        ]
-      },
-      {
-        "name": "PHP",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo web", "Backend"
-        ]
-      },
-      {
-        "name": "React",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo web", "Frontend"
-        ]
-      },
-      {
-        "name": "Astro",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo web", "Frontend"
-        ]
-      }
-    ],
-    "languages": [{
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo web", "Frontend"]
+    },
+    {
+      "name": "css",
+      "level": "Master",
+      "keywords": ["Desarrollo web", "Frontend"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo web", "Frontend"]
+    },
+    {
+      "name": "PHP",
+      "level": "Master",
+      "keywords": ["Desarrollo web", "Backend"]
+    },
+    {
+      "name": "React",
+      "level": "Master",
+      "keywords": ["Desarrollo web", "Frontend"]
+    },
+    {
+      "name": "Astro",
+      "level": "Master",
+      "keywords": ["Desarrollo web", "Frontend"]
+    }
+  ],
+  "languages": [
+    {
       "language": "English",
-      "fluency": "Native speaker"
-    }],
-    "interests": [{
+      "fluency": "Conversacional"
+    }
+  ],
+  "interests": [
+    {
       "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
-    "references": [{
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
       "name": "Jane Doe",
       "reference": "Reference…"
-    }],
-    "projects": [{
+    }
+  ],
+  "projects": [
+    {
       "name": "Project",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
       "description": "Description...",
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
+      "highlights": ["Won award at AIHacks 2016"],
       "url": "https://project.com/"
-    }]
-  }
+    }
+  ]
+}
