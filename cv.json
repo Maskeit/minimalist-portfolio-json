@@ -2,7 +2,7 @@
   "basics": {
     "name": "Miguel Alejandre",
     "label": "Ingeniero de Software",
-    "image": "./maskeit.JPG",
+    "image": "./public/maskeit.webp",
     "email": "miguelagustin182@gmail.com",
     "phone": "(314) 166-9056",
     "url": "",
@@ -18,7 +18,7 @@
       {
         "network": "LinkedIn",
         "username": "Miguel Alejandre",
-        "url": "www.linkedin.com/in/miguel-alejandre-901421259"
+        "url": "https://www.linkedin.com/in/miguel-alejandre-901421259/"
       },
       {
         "network": "GitHub",
@@ -30,7 +30,7 @@
   "work": [
     {
       "name": "CISnatura",
-      "position": "FullStack Engineer",
+      "position": "Full Stack Engineer",
       "url": "https://cisnaturatienda.com.mx",
       "startDate": "2023-08-01",
       "endDate": "2024-01-30",
@@ -43,7 +43,7 @@
       "url": "https://cisnaturatienda.com.mx",
       "startDate": "2023-08-01",
       "endDate": "2023-12-01",
-      "summary": "Desarrollé una aplicación móvil innovadora que facilite el comercio entre pequeños comercios locales y comerciantes independientes, ofreciendo una plataforma para la exhibición y venta eficiente de productos. ContribuÍ activamente al equipo, utilizando mis habilidades de Android Studio",
+      "summary": "Colaboré en el desarrollo de una aplicación móvil innovadora que facilite el comercio entre pequeños comercios locales y comerciantes independientes, ofreciendo una plataforma para la exhibición y venta eficiente de productos. ContribuÍ activamente al equipo, utilizando mis habilidades de Android Studio",
       "highlights": ["Java y XML Material Design 3"]
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://cisnaturatienda.com.mx",
       "startDate": "2023-02-01",
       "endDate": "2023-06-01",
-      "summary": "Desarrollé un proyecto para el control de aforo en establecimientos, donde mi rol incluyó la creación de un algoritmo de reconocimiento de imágenes. Además, entrené un modelo de aprendizaje automático e implementé en una Raspberry Pi",
+      "summary": "Desarrollé un proyecto para el control de aforo en establecimientos, donde mi rol incluyó la creación de un algoritmo de reconocimiento de imágenes. Además de entrenar un modelo de aprendizaje automático e implementé en una Raspberry Pi",
       "highlights": ["PHP, JavaScript, HTML, CSS, Bootstrap"]
     }
   ],
@@ -72,9 +72,19 @@
       "institution": "Universidad de Colima",
       "url": "https://www.ucol.mx/",
       "area": "Ingeniero de Software",
-      "studyType": "Bachelor",
+      "studyType": "Licenciatura",
       "startDate": "2021-08-15",
-      "endDate": "2025-05-01",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Universidad de Colima",
+      "url": "https://www.ucol.mx/",
+      "area": "Técnico en Contabilidad",
+      "studyType": "Bachillerato",
+      "startDate": "2017-08-15",
+      "endDate": "2020-06-15",
       "score": "",
       "courses": [""]
     }
@@ -111,7 +121,7 @@
       "keywords": ["Desarrollo web", "Frontend"]
     },
     {
-      "name": "css",
+      "name": "CSS",
       "level": "Master",
       "keywords": ["Desarrollo web", "Frontend"]
     },
@@ -126,7 +136,42 @@
       "keywords": ["Desarrollo web", "Backend"]
     },
     {
+      "name": "Python",
+      "level": "Master",
+      "keywords": ["Desarrollo web", "Backend"]
+    },
+    {
+      "name": "C",
+      "level": "Master",
+      "keywords": ["Desarrollo web", "Backend"]
+    },
+    {
       "name": "React",
+      "level": "Master",
+      "keywords": ["Desarrollo web", "Frontend"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Master",
+      "keywords": ["Desarrollo web", "Frontend"]
+    },
+    {
+      "name": "Node",
+      "level": "Master",
+      "keywords": ["Desarrollo web", "Frontend"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Master",
+      "keywords": ["Desarrollo web", "Frontend"]
+    },
+    {
+      "name": "Git",
+      "level": "Master",
+      "keywords": ["Desarrollo web", "Frontend"]
+    },
+    {
+      "name": "GitHub",
       "level": "Master",
       "keywords": ["Desarrollo web", "Frontend"]
     },
@@ -140,12 +185,16 @@
     {
       "language": "English",
       "fluency": "Conversacional"
+    },
+    {
+      "language": "Español",
+      "fluency": "Nativo"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "name": "Musica",
+      "keywords": ["bajo", "Unicorns"]
     }
   ],
   "references": [
@@ -156,12 +205,36 @@
   ],
   "projects": [
     {
-      "name": "Project",
+      "name": "CISnatura",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": ["Won award at AIHacks 2016"],
-      "url": "https://project.com/"
+      "description": "Ecommerce de productos naturistas y remedios herbolarios.",
+      "highlights": ["Desarrollo web"],
+      "url": "#"
+    },
+    {
+      "name": "Localito",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Aplicación de comercio local para dispositivos móviles android",
+      "highlights": ["Android Studio","API"],
+      "url": "https://github.com/PI5-Localito/Localito-Android"
+    },
+    {
+      "name": "SmartCrowd",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Software de reconocimiento de imagenes para el control del aforo, montado en una raspberry",
+      "highlights": ["OpenCV","IA","Raspberry Pi", "Azure"],
+      "url": "https://github.com/Maskeit/proyecto-integrador-4"
+    },
+    {
+      "name": "BlasterBlog",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Blog de arte y diseño 3D para creadores, artistas y aficionados del sofware de modelado en 3D",
+      "highlights": ["Blender","Desarrollo web"],
+      "url": "https://github.com/Maskeit/blasterblog.site"
     }
   ]
 }

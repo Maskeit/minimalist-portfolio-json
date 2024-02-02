@@ -11,6 +11,9 @@ const SOCIAL_ICONS: Record<string, any> = {
     GitHub,
     LinkedIn
 }
+
+const linkedInfo = profiles.find(({network})=> network === "LinkedIn");
+const linkedUrl = linkedInfo?.url
 ---
 
 
@@ -23,6 +26,9 @@ const SOCIAL_ICONS: Record<string, any> = {
           <span>
             {city}, {region}
           </span>
+          <div class="print">
+            {email} &bull; {phone} &bull; {linkedUrl}
+          </div>
           <footer class="no-print">
             {
               email && (
@@ -134,5 +140,21 @@ const SOCIAL_ICONS: Record<string, any> = {
         background: #eee;
         border: 1px solid #ddd;
         background-color: #eee;
+    }
+    .print{
+      display: none;
+    }
+    @media print {
+      .print{
+        display: block !important; 
+        color: #555;
+        font-size: 0.68rem;
+        gap: 4px;
+        margin-top: 8px;
+      }
+
+      .no-print{
+        display: none;
+      }
     }
 </style>
