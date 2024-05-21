@@ -6,7 +6,7 @@
     "email": "miguelagustin182@gmail.com",
     "phone": "(314) 166-9056",
     "url": "",
-    "summary": "Desarrollador de software experimentado con sólidas habilidades de front-end en JavaScript, ReactJS, Tailwind, HTML5 y CSS3. Competente en tecnologías backend, incluidas PHP, Java, Python y Node.js (ExpressJS), con experiencia en bases de datos tanto relacionales (MySQL) como no relacionales (MongoDB). Uso de herramientas como git y github. Experimentado en entrenamiento de modelos ML y aplicado al reconocimiento de imágenes. Certificado en SCRUM, demostrando dominio en metodologías ágiles. Fuertes habilidades de liderazgo y habilidades efectivas para hablar en público, complementadas con un compromiso con soluciones de software innovadoras y eficientes.",
+    "summary": "Ingeniero de software experimentado con sólidas habilidades de front-end en JavaScript, ReactJS, Tailwind, HTML5 y CSS3. Competente en tecnologías backend, incluidas PHP, Java, Python y Node.js (ExpressJS), con experiencia en bases de datos tanto relacionales (MySQL) como no relacionales (MongoDB). Uso de herramientas como git y github. Experimentado en entrenamiento de modelos ML y aplicado al reconocimiento de imágenes. Certificado en SCRUM, demostrando dominio en metodologías ágiles. Fuertes habilidades de liderazgo y habilidades efectivas para hablar en público, complementadas con un compromiso con soluciones de software innovadoras y eficientes.",
     "location": {
       "address": "Agachona Comun 433",
       "postalCode": "28864",
@@ -204,6 +204,14 @@
     }
   ],
   "projects": [
+    {
+      "name": "Proplayas",
+      "startDate": "2024-01-01",
+      "endDate": "2024-06-01",
+      "description": "Portal web para la comunicacion sobre el cuidado de playas.",
+      "highlights": ["Desarrollo web"],
+      "url": "#"
+    },
     {
       "name": "CISnatura",
       "startDate": "2019-01-01",
